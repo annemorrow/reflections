@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It makes a new hidden .git folder.  Also a .DS_store file, for some reason.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area lets you choose what files are involved in a commit.  This lets the commit be a cohesive unit.
