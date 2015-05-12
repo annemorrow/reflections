@@ -17,3 +17,7 @@ They are helpful when you want to make versions, or when you want to try somethi
 How do the diagrams help you visualize the branch structure?
 
 They show the parent relationship to other commits and where different branches separate.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result keeps anything that was kept by both parties, and makes any changes that was made by either party.  The result is considered the tip of the branch that the merger was in when they made the merge.
