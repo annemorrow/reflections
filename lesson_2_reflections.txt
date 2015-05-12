@@ -21,3 +21,7 @@ They show the parent relationship to other commits and where different branches 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result keeps anything that was kept by both parties, and makes any changes that was made by either party.  The result is considered the tip of the branch that the merger was in when they made the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Not as tedious, and probably won't cause trouble.
