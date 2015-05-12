@@ -5,3 +5,11 @@ It makes a new hidden .git folder.  Also a .DS_store file, for some reason.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area lets you choose what files are involved in a commit.  This lets the commit be a cohesive unit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Make sure that all differences have something to do with the commit message you want to write.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+They are helpful when you want to make versions, or when you want to try something you're not sure you will keep.
